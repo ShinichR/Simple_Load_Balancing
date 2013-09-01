@@ -1,0 +1,7 @@
+client 0 Get Time:
+client 1 Get Time:
+sendbefore--------11000========0
+sendend
+child 6859 terminated
+server all stop
+msg_count= 0 ,wrong_count= 0 ,true_count0
